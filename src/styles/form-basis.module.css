@@ -1,0 +1,21 @@
+.formcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  gap: 0.5rem;
+  max-width: 22rem;
+}
+
+.formsection {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.typeinput {
+  flex: 1 1 0;
+}
+
+.formtitle {
+  align-self: center;
+}
